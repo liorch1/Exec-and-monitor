@@ -1,6 +1,8 @@
-##########################################################################################################
-#####################################10.12.2017
-##########################################################################################################
+﻿
+10/12/2017
+
+Exec and monitor
+
 A)create a new project in guthub called "Exec and monitor".
 1.a.create a folders called "bin" and "sbin"
 1.b. in bin--> create a script that will  list all processes ran by your user. should run with loop(not with top command)
