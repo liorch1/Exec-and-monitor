@@ -16,4 +16,3 @@ A)create a new project in guthub called "Exec and monitor".
 	e. to run all functions and save output in logs.
 
 4. create a script that will show menu that will execute previous script. 
-
